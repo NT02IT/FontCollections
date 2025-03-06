@@ -1,0 +1,797 @@
+[
+    {
+        "name": "Barber-Complete.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Barber-Complete.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Barber-Fill.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Barber-Fill.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Barber-Outline.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Barber-Outline.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Barber-Right.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Barber-Right.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Barber-Shadow.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Barber-Shadow.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDLifelessGrotesk-Black.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDLifelessGrotesk-Black.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDLifelessGrotesk-Bold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDLifelessGrotesk-Bold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDLifelessGrotesk-ExtraBold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDLifelessGrotesk-ExtraBold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDLifelessGrotesk-ExtraLight.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDLifelessGrotesk-ExtraLight.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDLifelessGrotesk-Light.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDLifelessGrotesk-Light.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDLifelessGrotesk-Medium.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDLifelessGrotesk-Medium.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDLifelessGrotesk-Regular.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDLifelessGrotesk-Regular.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDLifelessGrotesk-SemiBold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDLifelessGrotesk-SemiBold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDLifelessGrotesk-Thin.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDLifelessGrotesk-Thin.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDLifelessGrotesk_Variable.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDLifelessGrotesk_Variable.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BDStreetSignSans-AlmostRaised.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-AlmostRaised.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-AlmostRaisedExtremeInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-AlmostRaisedExtremeInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-AlmostRaisedInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-AlmostRaisedInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-AlmostRaisedSubtleInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-AlmostRaisedSubtleInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-Raised.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-Raised.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-RaisedExtremeInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-RaisedExtremeInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-RaisedInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-RaisedInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-RaisedSubtleInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-RaisedSubtleInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-SlightlyRaised.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-SlightlyRaised.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-SlightlyRaisedExtremeInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-SlightlyRaisedExtremeInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-SlightlyRaisedInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-SlightlyRaisedInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-SlightlyRaisedSubtleInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-SlightlyRaisedSubtleInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-Standard.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-Standard.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-StandardExtremeInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-StandardExtremeInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-StandardInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-StandardInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans-StandardSubtleInktrap.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans-StandardSubtleInktrap.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BDStreetSignSans_Variable.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BDStreetSignSans_Variable.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeautiqueDisplay-Black.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-Black.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-BlackItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-BlackItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-Bold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-Bold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-BoldItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-BoldItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-Condensed.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-Condensed.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-CondensedBlack.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-CondensedBlack.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-CondensedBlackItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-CondensedBlackItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-CondensedBold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-CondensedBold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-CondensedBoldItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-CondensedBoldItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-CondensedItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-CondensedItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-CondensedLight.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-CondensedLight.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-CondensedLightItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-CondensedLightItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-CondensedMedium.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-CondensedMedium.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-CondensedMediumItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-CondensedMediumItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-Italic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-Italic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-Light.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-Light.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-LightItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-LightItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-Medium.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-Medium.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-MediumItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-MediumItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeautiqueDisplay-Regular.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeautiqueDisplay-Regular.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BeVietnamPro-Black.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-Black.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-BlackItalic.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-BlackItalic.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-Bold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-Bold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-BoldItalic.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-BoldItalic.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-ExtraBold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-ExtraBold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-ExtraBoldItalic.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-ExtraBoldItalic.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-ExtraLight.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-ExtraLight.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-ExtraLightItalic.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-ExtraLightItalic.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-Italic.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-Italic.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-Light.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-Light.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-LightItalic.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-LightItalic.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-Medium.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-Medium.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-MediumItalic.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-MediumItalic.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-Regular.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-Regular.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-SemiBold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-SemiBold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-SemiBoldItalic.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-SemiBoldItalic.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-Thin.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-Thin.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BeVietnamPro-ThinItalic.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BeVietnamPro-ThinItalic.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BT-BeauSans-Bold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-BeauSans-Bold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BT-BeauSans-BoldItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-BeauSans-BoldItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BT-BeauSans-ExtraBold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-BeauSans-ExtraBold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BT-BeauSans-ExtraBoldItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-BeauSans-ExtraBoldItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BT-BeauSans-Italic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-BeauSans-Italic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BT-BeauSans-Light.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-BeauSans-Light.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BT-BeauSans-LightItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-BeauSans-LightItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BT-BeauSans-Medium.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-BeauSans-Medium.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BT-BeauSans-MediumItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-BeauSans-MediumItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BT-BeauSans-Regular.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-BeauSans-Regular.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "BT-Brainstorm-Marker.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-Brainstorm-Marker.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "BT-Brainstorm-Rollerball.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\BT-Brainstorm-Rollerball.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "CHI SON 1.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\CHI SON 1.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "CHI SON 2.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\CHI SON 2.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "ClassiqueSaigon.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\ClassiqueSaigon.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Cotdien Typeface.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Cotdien Typeface.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DanhDa-Bold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DanhDa-Bold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "DarkerGrotesque-Black.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DarkerGrotesque-Black.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DarkerGrotesque-Bold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DarkerGrotesque-Bold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DarkerGrotesque-ExtraBold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DarkerGrotesque-ExtraBold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DarkerGrotesque-Light.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DarkerGrotesque-Light.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DarkerGrotesque-Medium.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DarkerGrotesque-Medium.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DarkerGrotesque-Regular.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DarkerGrotesque-Regular.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DarkerGrotesque-SemiBold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DarkerGrotesque-SemiBold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DarkerGrotesque-VariableFont_wght.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DarkerGrotesque-VariableFont_wght.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DTPhudu-Black.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DTPhudu-Black.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DTPhudu-Bold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DTPhudu-Bold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DTPhudu-Light.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DTPhudu-Light.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DTPhudu-Medium.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DTPhudu-Medium.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "DTPhudu-Regular.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\DTPhudu-Regular.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Eiforya.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Eiforya.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Finesse-Flair.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Finesse-Flair.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Finesse-Future.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Finesse-Future.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Finesse-Italic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Finesse-Italic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Finesse-Oblique.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Finesse-Oblique.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Finesse-Roman.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Finesse-Roman.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Ganh Type - Regular.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Ganh Type - Regular.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Ganh Type - RegularItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Ganh Type - RegularItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Ganh Type - Thin.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Ganh Type - Thin.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Ganh Type - ThinItalic.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Ganh Type - ThinItalic.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "HIEN KHANH 1.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\HIEN KHANH 1.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "HIEN KHANH 2.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\HIEN KHANH 2.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "HIEN KHANH 3.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\HIEN KHANH 3.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Hoa Sen Typeface.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Hoa Sen Typeface.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "HONG KY 1.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\HONG KY 1.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "HONG KY 2.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\HONG KY 2.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "L'Hanoienne.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\L'Hanoienne.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "LostType2023-Regular.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\LostType2023-Regular.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "LuongTuong.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\LuongTuong.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "NGTAndreeGroteskTrial-MonoRegular.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTAndreeGroteskTrial-MonoRegular.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTAndreeGroteskTrial-Regular.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTAndreeGroteskTrial-Regular.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTTofuDisplayTrial-Black.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTTofuDisplayTrial-Black.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTTofuDisplayTrial-Bold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTTofuDisplayTrial-Bold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTTofuDisplayTrial-ExtraBold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTTofuDisplayTrial-ExtraBold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTTofuDisplayTrial-ExtraLight.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTTofuDisplayTrial-ExtraLight.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTTofuDisplayTrial-Light.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTTofuDisplayTrial-Light.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTTofuDisplayTrial-Medium.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTTofuDisplayTrial-Medium.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTTofuDisplayTrial-Regular.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTTofuDisplayTrial-Regular.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTTofuDisplayTrial-SemiBold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTTofuDisplayTrial-SemiBold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTTofuDisplayTrial-Thin.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTTofuDisplayTrial-Thin.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "NGTVinaSans-Regular.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\NGTVinaSans-Regular.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Patriot-Black.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Patriot-Black.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Patriot-Bold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Patriot-Bold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Patriot-Light.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Patriot-Light.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Patriot-Medium.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Patriot-Medium.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Patriot-Normal.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Patriot-Normal.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Patriot-Regular.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Patriot-Regular.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Patriot-UltraBold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Patriot-UltraBold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "PHAT TAI.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\PHAT TAI.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Phudu-Black.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Phudu-Black.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Phudu-Bold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Phudu-Bold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Phudu-ExtraBold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Phudu-ExtraBold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Phudu-Light.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Phudu-Light.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Phudu-Medium.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Phudu-Medium.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Phudu-Regular.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Phudu-Regular.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Phudu-SemiBold.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Phudu-SemiBold.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "Phudu[wght].ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Phudu[wght].ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "SacViet.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\SacViet.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "SAIGON1985.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\SAIGON1985.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "SG85-CUA HANG.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\SG85-CUA HANG.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "TNH Xuong.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\TNH Xuong.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "VEN-DisplayTypeface-VietnameseAoDai&ConicalHat.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\VEN-DisplayTypeface-VietnameseAoDai&ConicalHat.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Westgate-Bold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Westgate-Bold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Westgate-Light.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Westgate-Light.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Westgate-Regular.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Westgate-Regular.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Westgate-Semibold.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Westgate-Semibold.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "Westgate-Thin.otf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\Westgate-Thin.otf",
+        "extension": ".otf"
+    },
+    {
+        "name": "XanhMono-Italic.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\XanhMono-Italic.ttf",
+        "extension": ".ttf"
+    },
+    {
+        "name": "XanhMono-Regular.ttf",
+        "path": "D:\\PublicZone\\Vietnam Type Foundry\\App\\fonts\\XanhMono-Regular.ttf",
+        "extension": ".ttf"
+    }
+]
