@@ -7,7 +7,8 @@
 ## Cài đặt chương trình
 
 - Bước 1: Clone/ Tải project này về
-- Bước 2: Phải chuột vào file setup.bat vào bấm run với quyền admin
+- Bước 2: Thêm các Font Collection vào folder Collection theo cấu trúc của bạn
+- Bước 3: Đúp chuột vào file scan.bat để scan font
 
 ## Sử dụng
 

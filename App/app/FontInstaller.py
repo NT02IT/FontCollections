@@ -105,6 +105,8 @@ class FontInstaller:
         
         with open(self.output_file, "r", encoding="utf-8") as f:
             font_list = json.load(f)
+
+        new_logger("Bắt đầu cài đặt font...")
         
         threads = []
         for font in font_list:

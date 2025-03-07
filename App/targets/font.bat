@@ -1,6 +1,8 @@
 @echo off
 chcp 65001 > nul
 color e
+cls
+
 :: Lấy thư mục cha của thư mục hiện tại (%~dp0)
 for %%I in ("%~dp0..") do set "PARENT_PATH=%%~fI"
 
