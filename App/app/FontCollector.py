@@ -22,8 +22,8 @@ class FontCollector:
             src_path = font["path"]
             dest_path = os.path.join(self.FONT_COLLECTION_DIR, font["name"])
             
-            try:
+            if os.path.exists(dest_path):
+                log_message(f"{font['name']} - đã tồn tại.")
+            else:
                 shutil.copy2(src_path, dest_path)
                 log_message(f"Collected: {font['name']}")
-            except Exception as e:
-                log_message(f"Không thể Collect {font['name']}: {e}")

@@ -1,40 +1,163 @@
-09-03-25 22:11:28 > Bắt đầu tìm kiếm
-System:
----
-
-Google Font:
----
-
-Google Search:
----
-
-1. Can you add fonts to Brother SE600? : r/MachineEmbroidery
-   https://www.reddit.com/r/MachineEmbroidery/comments/10kbkkw/can_you_add_fonts_to_brother_se600/
-
-2. Why is my Brother printer not printing fonts in a PDF correctly? - Ask ...
-   https://askubuntu.com/questions/1344426/why-is-my-brother-printer-not-printing-fonts-in-a-pdf-correctly
-
-3. Trying to figure out digitizing fonts for my brother se600 : r ...
-   https://www.reddit.com/r/Machine_Embroidery/comments/18vjsyo/trying_to_figure_out_digitizing_fonts_for_my/
-
-4. Font Manager | List of Special Software Provided by Brother ...
-   https://support.brother.com/g/s/es/dev/en/specific/font_manager/index.html?navi=offall
-
-5. Download or transfer designs/fonts from computer to machine using ...
-   https://help.brother-usa.com/app/answers/detail/a_id/66887/~/download-or-transfer-designs%2Ffonts-from-computer-to-machine-using-usb-media
-
-6. Similar free fonts and alternative for My Brother Regular
-   https://www.whatfontis.com/NMY_My-Brother-Regular.similar
-
-7. How to download fonts to your Brother PE500
-   https://www.pinterest.com/pin/112378953172664475/
-
-8. How to Add Font to Brother Se600 Embroidery Machine | TikTok
-   https://www.tiktok.com/discover/how-to-add-font-to-brother-se600-embroidery-machine
-
-9. Replace fonts with ARIAL for young brother - Modding - Tutorials ...
-   https://forums.crateentertainment.com/t/replace-fonts-with-arial-for-young-brother/40200
-
-10. Brother SE 350 Font Selection sewing discussion topic ...
-   https://sewing.patternreview.com/SewingDiscussions/topic/36977
-
+09-03-25 23:06:58 > Bắt đầu cài đặt font...
+Barber-Complete.otf installed
+Bỏ qua Barber-Fill.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Barber-Outline.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Barber-Right.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Barber-Shadow.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDLifelessGrotesk-Black.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDLifelessGrotesk-Bold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDLifelessGrotesk-ExtraBold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDLifelessGrotesk-ExtraLight.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDLifelessGrotesk-Light.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDLifelessGrotesk-Medium.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDLifelessGrotesk-Regular.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDLifelessGrotesk-SemiBold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDLifelessGrotesk-Thin.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDLifelessGrotesk_Variable.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-AlmostRaised.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-AlmostRaisedExtremeInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-AlmostRaisedInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-AlmostRaisedSubtleInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-Raised.otf, đã được cài đặt trong hệ thống.
+BDStreetSignSans-RaisedExtremeInktrap.otf installed
+Bỏ qua BDStreetSignSans-RaisedInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-RaisedSubtleInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-SlightlyRaised.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-SlightlyRaisedExtremeInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-SlightlyRaisedInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-SlightlyRaisedSubtleInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-Standard.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-StandardExtremeInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-StandardInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans-StandardSubtleInktrap.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BDStreetSignSans_Variable.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-Black.otf, đã được cài đặt trong hệ thống.
+BeautiqueDisplay-BlackItalic.otf installed
+Bỏ qua BeautiqueDisplay-Bold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-BoldItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-Condensed.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-CondensedBlack.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-CondensedBlackItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-CondensedBold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-CondensedBoldItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-CondensedItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-CondensedLight.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-CondensedLightItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-CondensedMedium.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-CondensedMediumItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-Italic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-Light.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-LightItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-Medium.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-MediumItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeautiqueDisplay-Regular.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-Black.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-BlackItalic.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-Bold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-BoldItalic.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-ExtraBold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-ExtraBoldItalic.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-ExtraLight.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-ExtraLightItalic.ttf, đã được cài đặt trong hệ thống.
+BeVietnamPro-Italic.ttf installed
+Bỏ qua BeVietnamPro-Light.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-LightItalic.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-Medium.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-MediumItalic.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-Regular.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-SemiBold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-SemiBoldItalic.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-Thin.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BeVietnamPro-ThinItalic.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-BeauSans-Bold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-BeauSans-BoldItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-BeauSans-ExtraBold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-BeauSans-ExtraBoldItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-BeauSans-Italic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-BeauSans-Light.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-BeauSans-LightItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-BeauSans-Medium.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-BeauSans-MediumItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-BeauSans-Regular.otf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-Brainstorm-Marker.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua BT-Brainstorm-Rollerball.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua CHI SON 1.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua CHI SON 2.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua ClassiqueSaigon.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Cotdien Typeface.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DanhDa-Bold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua DarkerGrotesque-Black.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DarkerGrotesque-Bold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DarkerGrotesque-ExtraBold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DarkerGrotesque-Light.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DarkerGrotesque-Medium.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DarkerGrotesque-Regular.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DarkerGrotesque-SemiBold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DarkerGrotesque-VariableFont_wght.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DTPhudu-Black.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DTPhudu-Bold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DTPhudu-Light.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DTPhudu-Medium.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua DTPhudu-Regular.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua Eiforya.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua Finesse-Flair.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Finesse-Future.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Finesse-Italic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Finesse-Oblique.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Finesse-Roman.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Ganh Type - Regular.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Ganh Type - RegularItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Ganh Type - Thin.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Ganh Type - ThinItalic.otf, đã được cài đặt trong hệ thống.
+Bỏ qua HIEN KHANH 1.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua HIEN KHANH 2.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua HIEN KHANH 3.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua Hoa Sen Typeface.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua HONG KY 1.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua HONG KY 2.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua L'Hanoienne.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua LostType2023-Regular.otf, đã được cài đặt trong hệ thống.
+Bỏ qua LuongTuong.otf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTAndreeGroteskTrial-MonoRegular.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTAndreeGroteskTrial-Regular.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTTofuDisplayTrial-Black.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTTofuDisplayTrial-Bold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTTofuDisplayTrial-ExtraBold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTTofuDisplayTrial-ExtraLight.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTTofuDisplayTrial-Light.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTTofuDisplayTrial-Medium.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTTofuDisplayTrial-Regular.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTTofuDisplayTrial-SemiBold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua NGTTofuDisplayTrial-Thin.ttf, đã được cài đặt trong hệ thống.
+NGTVinaSans-Regular.otf installed
+Bỏ qua Patriot-Black.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Patriot-Bold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Patriot-Light.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Patriot-Medium.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Patriot-Normal.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Patriot-Regular.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Patriot-UltraBold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua PHAT TAI.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua Phudu-Black.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua Phudu-Bold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua Phudu-ExtraBold.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua Phudu-Light.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua Phudu-Medium.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua Phudu-Regular.ttf, đã được cài đặt trong hệ thống.
+Phudu-SemiBold.ttf installed
+Bỏ qua Phudu[wght].ttf, đã được cài đặt trong hệ thống.
+Bỏ qua SacViet.otf, đã được cài đặt trong hệ thống.
+Bỏ qua SAIGON1985.ttf, đã được cài đặt trong hệ thống.
+SG85-CUA HANG.ttf installed
+TNH Xuong.otf installed
+VEN-DisplayTypeface-VietnameseAoDai&ConicalHat.otf installed
+Westgate-Bold.otf installed
+Bỏ qua Westgate-Light.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Westgate-Regular.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Westgate-Semibold.otf, đã được cài đặt trong hệ thống.
+Bỏ qua Westgate-Thin.otf, đã được cài đặt trong hệ thống.
+Bỏ qua XanhMono-Italic.ttf, đã được cài đặt trong hệ thống.
+Bỏ qua XanhMono-Regular.ttf, đã được cài đặt trong hệ thống.
+Lỗi khi sao chép D:\PublicZone\FontCollections\App\fonts\XanhMono-Italic.ttf: [Errno 22] Invalid argument: 'C:\\Windows\\Fonts\\XanhMono-Italic.ttf'
+Lỗi khi sao chép D:\PublicZone\FontCollections\App\fonts\XanhMono-Regular.ttf: [Errno 22] Invalid argument: 'C:\\Windows\\Fonts\\XanhMono-Regular.ttf'
+Hoàn tất cài đặt font.
