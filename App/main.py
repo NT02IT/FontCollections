@@ -2,11 +2,11 @@ import os
 import sys
 import ctypes
 
-# from utils.request_access import request_admin
 from app.FontScanner import FontScanner
 from app.FontCollector import FontCollector
 from app.FontInstaller import FontInstaller
 from app.FontUninstaller import FontUninstaller
+from app.FontSearch import FontSearch
 from utils.log import log_message, new_logger
 
 def is_admin():
@@ -37,7 +37,7 @@ LOG_FILE = os.path.join(os.path.dirname(__file__), "log.txt")
 
 def main():
     if len(sys.argv) < 2:
-        log_message("Sử dụng: font [scan|collect|install|uninstall|showlog]")
+        log_message("Sử dụng: font [scan|search|collect|install|uninstall|showlog]")
         return
 
     command = sys.argv[1].lower()
@@ -62,8 +62,17 @@ def main():
         with open(LOG_FILE, 'r', encoding='utf-8') as file:
             content = file.read()
             print(content)
+    elif command == "clearlog":
+        with open(LOG_FILE, 'w', encoding='utf-8') as file:
+            file.write("")
+    elif command == "search":
+        keywords = " ".join(sys.argv[2:])
+        fontSearch = FontSearch()
+        fontSearch.search(keywords)
+
+
     else:
-        log_message("Lệnh không hợp lệ! Sử dụng: font [scan|collect|install|uninstall]")
+        log_message("Sử dụng: font [scan|search|collect|install|uninstall|showlog]")
 
 if __name__ == "__main__":
     main()

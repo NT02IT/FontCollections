@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 > nul
-color e
+@REM color e
 cls
 
 :: Lấy thư mục cha của thư mục hiện tại (%~dp0)

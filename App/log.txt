@@ -1,2 +1,40 @@
-08-03-25 00:56:04 > Bắt đầu quét font...
-Đã lưu danh sách font vào D:\PublicZone\FontCollections\App\fontlist.json
+09-03-25 22:11:28 > Bắt đầu tìm kiếm
+System:
+---
+
+Google Font:
+---
+
+Google Search:
+---
+
+1. Can you add fonts to Brother SE600? : r/MachineEmbroidery
+   https://www.reddit.com/r/MachineEmbroidery/comments/10kbkkw/can_you_add_fonts_to_brother_se600/
+
+2. Why is my Brother printer not printing fonts in a PDF correctly? - Ask ...
+   https://askubuntu.com/questions/1344426/why-is-my-brother-printer-not-printing-fonts-in-a-pdf-correctly
+
+3. Trying to figure out digitizing fonts for my brother se600 : r ...
+   https://www.reddit.com/r/Machine_Embroidery/comments/18vjsyo/trying_to_figure_out_digitizing_fonts_for_my/
+
+4. Font Manager | List of Special Software Provided by Brother ...
+   https://support.brother.com/g/s/es/dev/en/specific/font_manager/index.html?navi=offall
+
+5. Download or transfer designs/fonts from computer to machine using ...
+   https://help.brother-usa.com/app/answers/detail/a_id/66887/~/download-or-transfer-designs%2Ffonts-from-computer-to-machine-using-usb-media
+
+6. Similar free fonts and alternative for My Brother Regular
+   https://www.whatfontis.com/NMY_My-Brother-Regular.similar
+
+7. How to download fonts to your Brother PE500
+   https://www.pinterest.com/pin/112378953172664475/
+
+8. How to Add Font to Brother Se600 Embroidery Machine | TikTok
+   https://www.tiktok.com/discover/how-to-add-font-to-brother-se600-embroidery-machine
+
+9. Replace fonts with ARIAL for young brother - Modding - Tutorials ...
+   https://forums.crateentertainment.com/t/replace-fonts-with-arial-for-young-brother/40200
+
+10. Brother SE 350 Font Selection sewing discussion topic ...
+   https://sewing.patternreview.com/SewingDiscussions/topic/36977
+

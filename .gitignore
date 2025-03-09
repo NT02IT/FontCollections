@@ -3,4 +3,4 @@ App/fonts
 App/fontlist.json
 App/venv
 **/__pycache__
-# App/configs/apikey.json
+App/configs/apikey.json
