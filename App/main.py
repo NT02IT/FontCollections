@@ -6,6 +6,7 @@ from app.FontScanner import FontScanner
 from app.FontCollector import FontCollector
 from app.FontInstaller import FontInstaller
 from app.FontUninstaller import FontUninstaller
+from app.MergeFonts import MergeFonts
 from app.FontSearch import FontSearch
 from utils.log import log_message, new_logger
 
@@ -37,7 +38,7 @@ LOG_FILE = os.path.join(os.path.dirname(__file__), "log.txt")
 
 def main():
     if len(sys.argv) < 2:
-        log_message("Sử dụng: font [scan|search|collect|install|uninstall|showlog]")
+        log_message("Sử dụng: font [scan|search|collect|install|uninstall|merge|showlog]")
         return
 
     command = sys.argv[1].lower()
@@ -69,10 +70,11 @@ def main():
         keywords = " ".join(sys.argv[2:])
         fontSearch = FontSearch()
         fontSearch.search(keywords)
-
-
+    elif command == "merge":
+        mergeFont = MergeFonts(OUTPUT_FILE)
+        mergeFont.run()
     else:
-        log_message("Sử dụng: font [scan|search|collect|install|uninstall|showlog]")
+        log_message("Sử dụng: font [scan|search|collect|install|uninstall|merge|showlog]")
 
 if __name__ == "__main__":
     main()

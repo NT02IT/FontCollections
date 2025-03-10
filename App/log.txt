@@ -1,163 +1,978 @@
-09-03-25 23:06:58 > Bắt đầu cài đặt font...
-Barber-Complete.otf installed
-Bỏ qua Barber-Fill.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Barber-Outline.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Barber-Right.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Barber-Shadow.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDLifelessGrotesk-Black.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDLifelessGrotesk-Bold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDLifelessGrotesk-ExtraBold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDLifelessGrotesk-ExtraLight.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDLifelessGrotesk-Light.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDLifelessGrotesk-Medium.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDLifelessGrotesk-Regular.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDLifelessGrotesk-SemiBold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDLifelessGrotesk-Thin.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDLifelessGrotesk_Variable.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-AlmostRaised.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-AlmostRaisedExtremeInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-AlmostRaisedInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-AlmostRaisedSubtleInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-Raised.otf, đã được cài đặt trong hệ thống.
-BDStreetSignSans-RaisedExtremeInktrap.otf installed
-Bỏ qua BDStreetSignSans-RaisedInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-RaisedSubtleInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-SlightlyRaised.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-SlightlyRaisedExtremeInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-SlightlyRaisedInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-SlightlyRaisedSubtleInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-Standard.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-StandardExtremeInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-StandardInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans-StandardSubtleInktrap.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BDStreetSignSans_Variable.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-Black.otf, đã được cài đặt trong hệ thống.
-BeautiqueDisplay-BlackItalic.otf installed
-Bỏ qua BeautiqueDisplay-Bold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-BoldItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-Condensed.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-CondensedBlack.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-CondensedBlackItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-CondensedBold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-CondensedBoldItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-CondensedItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-CondensedLight.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-CondensedLightItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-CondensedMedium.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-CondensedMediumItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-Italic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-Light.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-LightItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-Medium.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-MediumItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeautiqueDisplay-Regular.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-Black.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-BlackItalic.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-Bold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-BoldItalic.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-ExtraBold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-ExtraBoldItalic.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-ExtraLight.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-ExtraLightItalic.ttf, đã được cài đặt trong hệ thống.
-BeVietnamPro-Italic.ttf installed
-Bỏ qua BeVietnamPro-Light.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-LightItalic.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-Medium.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-MediumItalic.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-Regular.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-SemiBold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-SemiBoldItalic.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-Thin.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BeVietnamPro-ThinItalic.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-BeauSans-Bold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-BeauSans-BoldItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-BeauSans-ExtraBold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-BeauSans-ExtraBoldItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-BeauSans-Italic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-BeauSans-Light.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-BeauSans-LightItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-BeauSans-Medium.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-BeauSans-MediumItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-BeauSans-Regular.otf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-Brainstorm-Marker.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua BT-Brainstorm-Rollerball.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua CHI SON 1.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua CHI SON 2.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua ClassiqueSaigon.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Cotdien Typeface.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DanhDa-Bold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua DarkerGrotesque-Black.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DarkerGrotesque-Bold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DarkerGrotesque-ExtraBold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DarkerGrotesque-Light.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DarkerGrotesque-Medium.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DarkerGrotesque-Regular.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DarkerGrotesque-SemiBold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DarkerGrotesque-VariableFont_wght.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DTPhudu-Black.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DTPhudu-Bold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DTPhudu-Light.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DTPhudu-Medium.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua DTPhudu-Regular.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua Eiforya.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua Finesse-Flair.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Finesse-Future.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Finesse-Italic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Finesse-Oblique.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Finesse-Roman.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Ganh Type - Regular.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Ganh Type - RegularItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Ganh Type - Thin.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Ganh Type - ThinItalic.otf, đã được cài đặt trong hệ thống.
-Bỏ qua HIEN KHANH 1.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua HIEN KHANH 2.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua HIEN KHANH 3.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua Hoa Sen Typeface.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua HONG KY 1.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua HONG KY 2.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua L'Hanoienne.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua LostType2023-Regular.otf, đã được cài đặt trong hệ thống.
-Bỏ qua LuongTuong.otf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTAndreeGroteskTrial-MonoRegular.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTAndreeGroteskTrial-Regular.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTTofuDisplayTrial-Black.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTTofuDisplayTrial-Bold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTTofuDisplayTrial-ExtraBold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTTofuDisplayTrial-ExtraLight.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTTofuDisplayTrial-Light.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTTofuDisplayTrial-Medium.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTTofuDisplayTrial-Regular.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTTofuDisplayTrial-SemiBold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua NGTTofuDisplayTrial-Thin.ttf, đã được cài đặt trong hệ thống.
-NGTVinaSans-Regular.otf installed
-Bỏ qua Patriot-Black.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Patriot-Bold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Patriot-Light.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Patriot-Medium.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Patriot-Normal.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Patriot-Regular.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Patriot-UltraBold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua PHAT TAI.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua Phudu-Black.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua Phudu-Bold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua Phudu-ExtraBold.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua Phudu-Light.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua Phudu-Medium.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua Phudu-Regular.ttf, đã được cài đặt trong hệ thống.
-Phudu-SemiBold.ttf installed
-Bỏ qua Phudu[wght].ttf, đã được cài đặt trong hệ thống.
-Bỏ qua SacViet.otf, đã được cài đặt trong hệ thống.
-Bỏ qua SAIGON1985.ttf, đã được cài đặt trong hệ thống.
-SG85-CUA HANG.ttf installed
-TNH Xuong.otf installed
-VEN-DisplayTypeface-VietnameseAoDai&ConicalHat.otf installed
-Westgate-Bold.otf installed
-Bỏ qua Westgate-Light.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Westgate-Regular.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Westgate-Semibold.otf, đã được cài đặt trong hệ thống.
-Bỏ qua Westgate-Thin.otf, đã được cài đặt trong hệ thống.
-Bỏ qua XanhMono-Italic.ttf, đã được cài đặt trong hệ thống.
-Bỏ qua XanhMono-Regular.ttf, đã được cài đặt trong hệ thống.
-Lỗi khi sao chép D:\PublicZone\FontCollections\App\fonts\XanhMono-Italic.ttf: [Errno 22] Invalid argument: 'C:\\Windows\\Fonts\\XanhMono-Italic.ttf'
-Lỗi khi sao chép D:\PublicZone\FontCollections\App\fonts\XanhMono-Regular.ttf: [Errno 22] Invalid argument: 'C:\\Windows\\Fonts\\XanhMono-Regular.ttf'
-Hoàn tất cài đặt font.
+10-03-25 19:39:49 > 🔍 Đang quét thư mục fonts...
+
+Đang phân cụm
+⚠️ Cảnh báo: Font CCSpaghettiWesternSans.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font HandOfSeanProiCiel-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font HeroidiCiel-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font PiekosProiCiel-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font SkippySharpiCiel-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font WebLettererPiCiel-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font ZoinksiCiel-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Aire Roman Std.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Angelic War.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Aphrodite Pro.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF AQUUS-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Assassin.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Barmbrack.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Bleeding Cowboys.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Centeria.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Chikita.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Cider Script.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Daddys Girl.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Didot LT Std.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Geotica 2012.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Haymaker.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF HeraBig-Black.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Jellyka Endless Voyage.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Kaileen.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Kingthings_Petrock_vi.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Lavanderia Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Lobster12.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Metroscript.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Mishka.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF MussicaSwash.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Narziss Swirls.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Narziss-Drops.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Perla.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Rapture Heavenly.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Reina 12 Pro.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF RixLoveFool.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF SlimTony.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF SomeWeatz_with_swashes.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Sreda.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF Turbayne.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font UVF WazaLTPro.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Atziluth Script.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font ballpark_weiner.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Bazar.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font BeachmanScript.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Bungalow.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font BUNGALOWSAN.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font CircusOrnate.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Death Before Chocolate Personal Use.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font DEFTONE.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font EchoDeco.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font EthonsStyles.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font fazlodia.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Fractis Alt.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Herrmes.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Just Sunday Demo.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Kelvinized.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Lemniscate_1_03.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Litchis Island light_PersonalUseOnly.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Litchis Island_PersonalUseOnly.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Market_Deco.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Matsury Demo.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font NASHVILL.TTF bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Quartila.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font riesling.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font RolleteQakuVector-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Sandwich.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font SEASRN__.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Secesja.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Showboat.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font TheQueenthine.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Vacations in Phuket_0.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VTKS RECOVER MB 1.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Actu Conden.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Actu.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL AequitasBlack-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Aftesto.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Angle.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Antipasto-pro-bold.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Archane.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Astronout.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL AT Apoc Dark.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL AT Apoc Light.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Authentype - The Calonue.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL AvenirNextLTPro-Bold.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Awesome Lathusca.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Baloo-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Berringer Aged.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL BLOSTA.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Cavantine.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Chronicle Text G1 Italic.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Chronicle Text G1 Roman.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL CiutadellaRounded-Bold.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Contaur.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Dahlia Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Delysha.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL DiloWorld.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Druk Medium.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Druk Wide Medium.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Esther.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Esther_2.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Eurotypo - Gageac.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL FFF Tusj.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Finura-Italic.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Finura-Roman.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL FuturaRoundCond-Bold.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Gacor.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Gentha-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Giorgio Medium.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Glamy-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Hansief.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Harmoneux.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL HelveticaNowText-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL HelveticaNowText-Thin.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL HelveticaRoundedLTStd-BdCn.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Hertine.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL HM Lemonade Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Holimount.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Houstoner Script.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Intellecta Typewriter.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Jungle Mask.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Kiona-Itallic.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Kiona-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Komix Eighties.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Letter Magic.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Lightly Sailler.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Linkgray.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Little Birds.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Lovelace Medium.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL LuckiestGuy-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL MADE Cannes Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL MADE Coachella Thin.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Mahezty-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Martineli.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Mighty Wings.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Mint Type - FiorinaSubhead-Italic.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Mint Type - FiorinaSubhead-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL O-BertaSB-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Olga Umpeleva - Fado.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Outdoors Signature Stamp.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Poisoni Pro Bold.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Qaligo Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Qochy.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL RNS Obesa Fat.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Saber Brush.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Safira March.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Signatie.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Southmore.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Stangith.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Stilora.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL The Brown Times.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Tylaco.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL TypewriterBasiX-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL TypewriterBasiX-RegularItalic.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Vallery Qylmor.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Vignettic.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL W Foundry - Sonny Vol.2 UltraBlack.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Washington Heights JNL Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Wastinger Display.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Westiva Medium.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL Winsthen.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font VL_KarlsenRound-Bold.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font BT-Brainstorm-Marker.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font BT-Brainstorm-Rollerball.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font BDLifelessGrotesk_Variable.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font BDStreetSignSans_Variable.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font Phudu[wght].ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font PHAT TAI.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font SG85-CUA HANG.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font XanhMono-Italic.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+⚠️ Cảnh báo: Font XanhMono-Regular.ttf bị gán nhãn nhiễu (-1), bỏ qua.
+
+✅ Nhóm 1:
+ - SFUAdineKirnbergRegular.TTF
+ - SFUAGBuchStencilBQMedium.TTF
+ - SFUAmericanTypeBold.TTF
+ - SFUAmericanTypeMedium.TTF
+ - SFUAngieBlack.TTF
+ - SFUAngieBold.TTF
+ - SFUAngieItalic.TTF
+ - SFUAngieRegular.TTF
+ - SFUAristonRegular.TTF
+ - SFUAuchonRegular.TTF
+ - SFUBalletEngravedRegular.TTF
+ - SFUBaskervilleBookItalic.TTF
+ - SFUBaskervilleBookMedium.TTF
+ - SFUBaskervilleBookMediumItalic.TTF
+ - SFUBaskervilleBookRegular.TTF
+ - SFUBelleRegular.TTF
+ - SFUBemboBold.TTF
+ - SFUBemboBoldItalic.TTF
+ - SFUBemboExtraBold.TTF
+ - SFUBemboExtraBoldItalic.TTF
+ - SFUBemboItalic.TTF
+ - SFUBemboldMediumTTF.TTF
+ - SFUBlackoutRegular.TTF
+ - SFUBodoniBoldCondensed.TTF
+ - SFUCenturySchoolbookBTBold.TTF
+ - SFUCenturySchoolbookBTBoldCondensed.TTF
+ - SFUCenturySchoolbookBTBoldItalic.TTF
+ - SFUCenturySchoolbookBTItalic.TTF
+ - SFUCenturySchoolbookBTRoman.TTF
+ - SFUClearfaceBlack.TTF
+ - SFUClearGothicBold.TTF
+ - SFUClearGothicExtraLightOblique.TTF
+ - SFUClearGothicRegularOblique.TTF
+ - SFUCooperBlack.TTF
+ - SFUCooperBlackItalic.TTF
+ - SFUCornetRegular.TTF
+ - SFUDaxCondensedBold.TTF
+ - SFUDaxCondensedExtraBold.TTF
+ - SFUDaxCondensedLight.TTF
+ - SFUDaxCondensedMedium.TTF
+ - SFUDaxCondensedRegular.TTF
+ - SFUDinEngAlt.TTF
+ - SFUDinEngschrift.TTF
+ - SFUDinLight.TTF
+ - SFUDinMitAlt.TTF
+ - SFUDinMittelschrift.TTF
+ - SFUDinNeuGroBoldCondensed.TTF
+ - SFUDinNeuGroLight.TTF
+ - SFUEdwardianScriptRegular.TTF
+ - SFUEmpireBold.TTF
+ - SFUEmpireRegular.TTF
+ - SFUErgoeRegular.TTF
+ - SFUEurostileBold.TTF
+ - SFUEurostileBoldCondensed.TTF
+ - SFUEurostileBoldExtendedTwo_.TTF
+ - SFUEurostileBoldOblique.TTF
+ - SFUEurostileCondensed.TTF
+ - SFUEurostileDemi.TTF
+ - SFUEurostileDemiOblique.TTF
+ - SFUEurostileExtendedTwo.TTF
+ - SFUEurostileOblique.TTF
+ - SFUEurostileRegular.TTF
+ - SFUFeniceBold.TTF
+ - SFUFeniceBoldOblique.TTF
+ - SFUFeniceLight.TTF
+ - SFUFeniceLightOblique.TTF
+ - SFUFeniceOblique.TTF
+ - SFUFeniceRegular.TTF
+ - SFUFeniceUltra.TTF
+ - SFUFeniceUltraOblique.TTF
+ - SFUFranklinGothicBook.TTF
+ - SFUFranklinGothicBookOblique.TTF
+ - SFUFranklinGothicCondensed.TTF
+ - SFUFranklinGothicDemi.TTF
+ - SFUFranklinGothicDemiOblique.TTF
+ - SFUFranklinGothicHeavy.TTF
+ - SFUFranklinGothicHeavyOblique.TTF
+ - SFUFranklinGothicRoman.TTF
+ - SFUFreewayBlack.TTF
+ - SFUFreewayDemi.TTF
+ - SFUFreewayLight.TTF
+ - SFUFreewayRoman.TTF
+ - SFUFunctionCondensed.TTF
+ - SFUFunctionCondensedBold.TTF
+ - SFUFunctionCondensedBoldOblique.TTF
+ - SFUFunctionCondensedHeavy.TTF
+ - SFUFunctionCondensedHeavyOblique.TTF
+ - SFUFunctionCondensedLight.TTF
+ - SFUFunctionCondensedLightOblique.TTF
+ - SFUFunctionCondensedOblique.TTF
+ - SFUFuturaBold.TTF
+ - SFUFuturaBoldOblique.TTF
+ - SFUFuturaBook.TTF
+ - SFUFuturaBookOblique.TTF
+ - SFUFuturaExtraBold.TTF
+ - SFUFuturaExtraBoldOblique.TTF
+ - SFUFuturaHeavy.TTF
+ - SFUFuturaHeavyOblique.TTF
+ - SFUFuturaLight.TTF
+ - SFUFuturaLightOblique.TTF
+ - SFUFuturaObliqueTTF.TTF
+ - SFUFuturaRegular.TTF
+ - SFUGaramondCondensedBold.TTF
+ - SFUGaramondCondensedBoldItalic.TTF
+ - SFUGaramondCondensedLight.TTF
+ - SFUGaramondCondensedLightItalic.TTF
+ - SFUGaramondThreeBold.TTF
+ - SFUGaramondThreeBoldItalic.TTF
+ - SFUGaramondThreeItalic.TTF
+ - SFUGaramondThreeRegular.TTF
+ - SFUGillSansBold.TTF
+ - SFUGillSansBoldItalic.TTF
+ - SFUGillSansExtraBold.TTF
+ - SFUGillSansItalic.TTF
+ - SFUGillSansLight.TTF
+ - SFUGillSansRegular.TTF
+ - SFUGlytusBold.TTF
+ - SFUGlytusBoldItalic.TTF
+ - SFUGlytusItalic.TTF
+ - SFUGlytusLight.TTF
+ - SFUGlytusLightItalic.TTF
+ - SFUGlytusRegular.TTF
+ - SFUGoudyMedium.TTF
+ - SFUGrenobleExtraBold.TTF
+ - SFUGrenobleLight.TTF
+ - SFUGrenobleMedium.TTF
+ - SFUHelveticaBlack.TTF
+ - SFUHelveticaBold.TTF
+ - SFUHelveticaCompressed.TTF
+ - SFUHelveticaCondensed.TTF
+ - SFUHelveticaCondensedBlack.TTF
+ - SFUHelveticaCondensedBlackOblique.TTF
+ - SFUHelveticaCondensedBold.TTF
+ - SFUHelveticaCondensedBoldOblique.TTF
+ - SFUHelveticaCondensedLight.TTF
+ - SFUHelveticaCondensedLightOblique.TTF
+ - SFUHelveticaCondensedOblique.TTF
+ - SFUHelveticaExtraCompressed.TTF
+ - SFUHelveticaLight.TTF
+ - SFUHelveticaLightOblique.TTF
+ - SFUHelveticaNarrow.TTF
+ - SFUHelveticaNarrowBold.TTF
+ - SFUHelveticaNeueUltraLight.TTF
+ - SFUHelveticaUltraCompressed.TTF
+ - SFUHoneymoonRegular.TTF
+ - SFUIncised901Regular.TTF
+ - SFUInsigniaRegular.TTF
+ - SFUIsadoraBold.TTF
+ - SFUIsadoraRegular.TTF
+ - SFUJamaicaRegular.TTF
+ - SFULifeBold.TTF
+ - SFULifeItalic.TTF
+ - SFULifeRoman.TTF
+ - SFULightsOutRegular.TTF
+ - SFUMachineRegular.TTF
+ - SFUMatrixBold.TTF
+ - SFUMatrixRegular.TTF
+ - SFUMeliorBold.TTF
+ - SFUMeliorRegular.TTF
+ - SFUMetaBold.TTF
+ - SFUMetaCaps.TTF
+ - SFUMetaNormal.TTF
+ - SFUMonalisaRegular.TTF
+ - SFUMonotypeOldStyleMTBoldOutline.TTF
+ - SFUMTimesNewRomanBoldCondensed.TTF
+ - SFUMTimesNewRomanCondensed.TTF
+ - SFUMTimesNewRomanCondensedItalic.TTF
+ - SFUNapoliLight.TTF
+ - SFUNovareseBold.TTF
+ - SFUNovareseBoldItalic.TTF
+ - SFUNovareseBook.TTF
+ - SFUNovareseBookItalic.TTF
+ - SFUNovareseMedium.TTF
+ - SFUNovareseMediumItalic.TTF
+ - SFUNovareseUltra.TTF
+ - SFUOnyxMTRegular_.TTF
+ - SFUQuadradBold.TTF
+ - SFUQuagmireBoldExtended.TTF
+ - SFURhythmRegular.TTF
+ - SFUSalutRegular.TTF
+ - SFUSalzburgMedium.TTF
+ - SFUSaxonyLight.TTF
+ - SFUSaxonyXlight.TTF
+ - SFUSchadowBTBlackCondensed.TTF
+ - SFUShannonBold.TTF
+ - SFUShannonBoldOblique.TTF
+ - SFUShannonBook.TTF
+ - SFUShannonExtraBold.TTF
+ - SFUShannonOblique.TTF
+ - SFUSigvarDemiBold.TTF
+ - SFUSigvarDemiBoldItalic_.TTF
+ - SFUSigvarLight.TTF
+ - SFUSigvarRegular.TTF
+ - SFUSigvarRegularItalic.TTF
+ - SFUSolexBlack.TTF
+ - SFUSolexBold.TTF
+ - SFUSolexMedium.TTF
+ - SFUSolexRegular.TTF
+ - SFUSouvenirBold.TTF
+ - SFUSouvenirBoldItalic.TTF
+ - SFUStaffordBold.TTF
+ - SFUStoneSansBold.TTF
+ - SFUStoneSansBoldItalic.TTF
+ - SFUStoneSansItalic.TTF
+ - SFUStoneSansRegular.TTF
+ - SFUStoneSansSemiBold.TTF
+ - SFUStoneSansSemiBoldItalic.TTF
+ - SFUSwissBTExtraCompressed.TTF
+ - SFUSwissBTRegular.TTF
+ - SFUSwissBTUltraCompressed.TTF
+ - SFUSydneyHeavy.TTF
+ - SFUSydneyMedium.TTF
+ - SFUSydneyRegular.TTF
+ - SFUSyntaxBlack.TTF
+ - SFUSyntaxBold.TTF
+ - SFUSyntaxItalic.TTF
+ - SFUSyntaxRoman.TTF
+ - SFUSyntaxUltraBlack.TTF
+ - SFUTheSansBoldPlain.TTF
+ - SFUTheSansExtraBoldCaps.TTF
+ - SFUTheSansExtraBoldItalic.TTF
+ - SFUTheSansItalic.TTF
+ - SFUTheSansLightItalic.TTF
+ - SFUTheSansLightPlain.TTF
+ - SFUTheSansPlain.TTF
+ - SFUTimesTenBold.TTF
+ - SFUTimesTenBoldItalic.TTF
+ - SFUTimesTenItalic.TTF
+ - SFUTimesTenRoman.TTF
+ - SFUToledoBold.TTF
+ - SFUToledoMedium.TTF
+ - SFUTradeGothicBoldCondensedTwenty.TTF
+ - SFUTradeGothicBoldCondensedTwentyOblique.TTF
+ - SFUTradeGothicCondensedEighteenOblique.TTF
+ - SFUTrajanRegular.TTF
+
+✅ Nhóm 2:
+ - SFUHelveticaBlackOblique.TTF
+ - SFUHelveticaOblique.TTF
+ - SFUHelveticaRegular.TTF
+
+✅ Nhóm 3:
+ - AnimeAceiCiel-Bold.ttf
+ - AvegaeanceiCiel-Regular.ttf
+ - FrankBellamyiCiel-Regular.ttf
+ - WhizBang-Roman.ttf
+ - VL Airates Script.ttf
+ - VL Algeron.ttf
+ - VL Anya Tamy.ttf
+ - VL Bumpo Soft.ttf
+ - VL Chelthm.ttf
+ - VL Elika Gorica.ttf
+ - VL Glift.ttf
+ - VL KieuChinh-Black.ttf
+ - VL KieuChinh-BlackItalic.ttf
+ - VL KieuChinh-Bold.ttf
+ - VL KieuChinh-BoldItalic.ttf
+ - VL KieuChinh-ExtraBold.ttf
+ - VL KieuChinh-ExtraBoldItalic.ttf
+ - VL KieuChinh-Italic.ttf
+ - VL KieuChinh-Light.ttf
+ - VL KieuChinh-LightItalic.ttf
+ - VL KieuChinh-Medium.ttf
+ - VL KieuChinh-MediumItalic.ttf
+ - VL KieuChinh-Regular.ttf
+ - VL KieuChinh-SemiBold.ttf
+ - VL KieuChinh-SemiBoldItalic.ttf
+ - VL KieuChinh-Thin.ttf
+ - VL KieuChinh-ThinItalic.ttf
+ - VL MikelaLight.ttf
+ - VL Mondaze.ttf
+ - VL Mourich Bold.ttf
+ - VL Mourich Regular.ttf
+ - VL Nandia.ttf
+ - VL Perugia.ttf
+ - VL Rassvet_byArthurAvtuhov.ttf
+ - CHI SON 1.ttf
+ - CHI SON 2.ttf
+ - HIEN KHANH 1.ttf
+ - HIEN KHANH 2.ttf
+ - HIEN KHANH 3.ttf
+ - HONG KY 1.ttf
+ - HONG KY 2.ttf
+ - SAIGON1985.ttf
+ - Hoa Sen Typeface.ttf
+
+✅ Nhóm 4:
+ - Belisa-Regular.ttf
+ - RangSun-Regular.ttf
+ - UVF FiolexGirlVH.ttf
+ - UVF ginga.ttf
+ - UVF Youngblood.ttf
+ - Youngblood.ttf
+
+✅ Nhóm 5:
+ - BlahBlahUCiCiel-Bold.ttf
+ - BlahBlahUCiCiel-BoldItalic.ttf
+ - BlahBlahUCiCiel-Italic.ttf
+ - BlahBlahUCiCiel-Regular.ttf
+
+✅ Nhóm 6:
+ - BlambotClassiciCiel-BoldItalic.ttf
+ - BlambotClassiciCiel-Italic.ttf
+ - BlambotClassiciCiel-Regular.ttf
+
+✅ Nhóm 7:
+ - CollectEmAlliCiel-Bold.ttf
+ - CollectEmAlliCiel-BoldItalic.ttf
+ - CollectEmAlliCiel-Italic.ttf
+ - CollectEmAlliCiel-Regular.ttf
+
+✅ Nhóm 8:
+ - HometownHeroiCiel-Regular.ttf
+ - PiekosProiCiel-BoldItalic.ttf
+ - PiekosProiCiel-Italic.ttf
+
+✅ Nhóm 9:
+ - HundredWattiCiel-Bold.ttf
+ - HundredWattiCiel-BoldItalic.ttf
+ - HundredWattiCiel-Italic.ttf
+ - HundredWattiCiel-Regular.ttf
+
+✅ Nhóm 10:
+ - OutOfLineiCiel-Bold.ttf
+ - OutOfLineiCiel-BoldItalic.ttf
+ - OutOfLineiCiel-Italic.ttf
+ - OutOfLineiCiel-Regular.ttf
+
+✅ Nhóm 11:
+ - ReadyforAnythingTB-Bold.ttf
+ - ReadyforAnythingTB-BoldItalic.ttf
+ - ReadyforAnythingTB-Italic.ttf
+ - ReadyforAnythingTB-Regular.ttf
+
+✅ Nhóm 12:
+ - UVF A Charming Expanded.ttf
+ - Marcsc___.ttf
+ - sharpeye.ttf
+
+✅ Nhóm 13:
+ - UVF AbrilFatface Regular.ttf
+ - UVF Buttermilk Script.ttf
+ - UVF Champion Script Pro.ttf
+ - UVF Chops Normal.ttf
+ - UVF Intro Inline.ttf
+ - UVF Parfait Scrip Stylistic.ttf
+ - UVF Sofia Regular.ttf
+ - VNF Shelia  Regular.ttf
+
+✅ Nhóm 14:
+ - UVF Pepita Script.ttf
+ - LetterpressClean_Script_Bold.ttf
+ - LetterpressClean_Wood.ttf
+ - LetterpressScript.ttf
+ - LetterpressScript_Bold.ttf
+ - LetterPress_Condensed.ttf
+ - Letterpress_Gothic_0.ttf
+ - Letterpress_Wood.ttf
+
+✅ Nhóm 15:
+ - UVF Pistilli-Roman.ttf
+ - Crawley+Demo.ttf
+ - Flottflott.ttf
+ - Welliams.ttf
+
+✅ Nhóm 16:
+ - UVNAnhHai.TTF
+ - UVNAnhHaiNhe_I.TTF
+ - UVNAnhHaiNhe_R.TTF
+ - UVNAnhHai_BI.TTF
+ - UVNAnhHai_I.TTF
+ - UVNAnhHai_R.TTF
+ - UVNAnhSang.TTF
+ - UVNBachDang.TTF
+ - UVNBachDangNang_I.TTF
+ - UVNBachDangNang_R.TTF
+ - UVNBachDang_BI.TTF
+ - UVNBachDang_I.TTF
+ - UVNBachDang_R.TTF
+ - UVNBachTuyet.TTF
+ - UVNBachTuyetNang_I.TTF
+ - UVNBachTuyetNang_R.TTF
+ - UVNBachTuyet_BI.TTF
+ - UVNBachTuyet_I.TTF
+ - UVNBachTuyet_R.TTF
+ - UVNBaiHoc.TTF
+ - UVNBaiHoc_BI.TTF
+ - UVNBaiHoc_I.TTF
+ - UVNBaiHoc_R.TTF
+ - UVNBaiSau.TTF
+ - UVNBaiSau_N.TTF
+ - UVNBaiSau_Nh.TTF
+ - UVNBaiSau_R.TTF
+ - UVNBaLe.TTF
+ - UVNBanhMi.TTF
+ - UVNBanTay.TTF
+ - UVNBayBuom.TTF
+ - UVNBayBuomHep.TTF
+ - UVNBayBuomHep_N.TTF
+ - UVNBayBuomHep_R.TTF
+ - UVNBayBuom_N.TTF
+ - UVNBayBuom_R.TTF
+ - UVNBenXuan.TTF
+ - UVNBenXuan_R.TTF
+ - UVNBinhDuong.TTF
+ - UVNBoQuen.TTF
+ - UVNBuiDoi.TTF
+ - UVNButLong1.TTF
+ - UVNButLong2.TTF
+ - UVNCatBien.TTF
+ - UVNCatBienNhe_I.TTF
+ - UVNCatBienNhe_R.TTF
+ - UVNCatBien_BI.TTF
+ - UVNCatBien_I.TTF
+ - UVNCatBien_R.TTF
+ - UVNChimBien.TTF
+ - UVNChimBienNang.TTF
+ - UVNChimBienNhe.TTF
+ - UVNChimBien_R.TTF
+ - UVNChinhLuan.TTF
+ - UVNChinhLuan_BI.TTF
+ - UVNChinhLuan_I.TTF
+ - UVNChinhLuan_R.TTF
+ - UVNCHUKY.TTF
+ - UVNCoDien.TTF
+ - UVNCoDien_R.TTF
+ - UVNDaLat.TTF
+ - UVNDaLat_R.TTF
+ - UVNDamCuoi_H.TTF
+ - UVNDamCuoi_R.TTF
+ - UVNDinhHon.TTF
+ - UVNDoiMoi.TTF
+ - UVNDungDan.TTF
+ - UVNDzungDakao.TTF
+ - UVNGiaDinh.TTF
+ - UVNGiaDinhHep.TTF
+ - UVNGiaDinhHep_BI.TTF
+ - UVNGiaDinhHep_I.TTF
+ - UVNGiaDinhHep_R.TTF
+ - UVNGiaDinh_BI.TTF
+ - UVNGiaDinh_I.TTF
+ - UVNGiaDinh_R.TTF
+ - UVNGiayTrang.TTF
+ - UVNGiayTrang_R.TTF
+ - UVNGioMay.TTF
+ - UVNGioMayNhe_I.TTF
+ - UVNGioMayNhe_R.TTF
+ - UVNGioMay_BI.TTF
+ - UVNGioMay_I.TTF
+ - UVNGioMay_R.TTF
+ - UVNGiongSong.TTF
+ - UVNGiongSong_BI.TTF
+ - UVNGiongSong_I.TTF
+ - UVNGiongSong_R.TTF
+ - UVNHaiBaTrung.TTF
+ - UVNHaiLong.TTF
+ - UVNHanViet.TTF
+ - UVNHoaDao.TTF
+ - UVNHOAKY.TTF
+ - UVNHongHa.TTF
+ - UVNHongHaHep.TTF
+ - UVNHongHaHep_BI.TTF
+ - UVNHongHaHep_I.TTF
+ - UVNHongHaHep_R.TTF
+ - UVNHongHa_BI.TTF
+ - UVNHongHa_I.TTF
+ - UVNHongHa_R.TTF
+ - UVNHuongQue.TTF
+ - UVNHuongQue_N.TTF
+ - UVNHuongQue_R.TTF
+ - UVNKieu.TTF
+ - UVNKieu_R.TTF
+ - UVNKyThuat.TTF
+ - UVNLacLongQuan.TTF
+ - UVNLacLongQuan_R.TTF
+ - UVNLaXanh.TTF
+ - UVNLaXanh_BI.TTF
+ - UVNLaXanh_I.TTF
+ - UVNLaXanh_R.TTF
+ - UVNLYDO.TTF
+ - UVNMangCau.TTF
+ - UVNMangCauNang_I.TTF
+ - UVNMangCauNang_R.TTF
+ - UVNMangCau_BI.TTF
+ - UVNMangCau_I.TTF
+ - UVNMangCau_R.TTF
+ - UVNMangTre.TTF
+ - UVNMauTim1.TTF
+ - UVNMauTim2.TTF
+ - UVNMinhMap.TTF
+ - UVNMoiHong.TTF
+ - UVNMotMoi.TTF
+ - UVNMucCham.TTF
+ - UVNNguyenDu.TTF
+ - UVNNhan.TTF
+ - UVNNhanNang_I.TTF
+ - UVNNhanNang_R.TTF
+ - UVNNhan_BI.TTF
+ - UVNNhan_I.TTF
+ - UVNNhan_R.TTF
+ - UVNNhatKy.TTF
+ - UVNNhatKy_BI.TTF
+ - UVNNhatKy_I.TTF
+ - UVNNhatKy_R.TTF
+ - UVNPhuongTay.TTF
+ - UVNSachVo.TTF
+ - UVNSachVo_BI.TTF
+ - UVNSachVo_I.TTF
+ - UVNSachVo_R.TTF
+ - UVNThangGieng_I.TTF
+ - UVNThangGieng_R.TTF
+ - UVNThangVu.TTF
+ - UVNThanhBinh.TTF
+ - UVNThanhPho.TTF
+ - UVNThanhPhoNang.TTF
+ - UVNThanhPho_R.TTF
+ - UVNThayGiao.TTF
+ - UVNThayGiaoNang_I.TTF
+ - UVNThayGiaoNang_R.TTF
+ - UVNThayGiaoNhe_I.TTF
+ - UVNThayGiaoNhe_R.TTF
+ - UVNThayGiao_BI.TTF
+ - UVNThayGiao_I.TTF
+ - UVNThayGiao_R.TTF
+ - UVNThoiDai1.TTF
+ - UVNThoiDai2.TTF
+ - UVNThoiNay.TTF
+ - UVNThoiNayNang_I.TTF
+ - UVNThoiNayNang_R.TTF
+ - UVNThoiNay_BI.TTF
+ - UVNThoiNay_I.TTF
+ - UVNThoiNay_R.TTF
+ - UVNThuTu.TTF
+ - UVNTinTuc.TTF
+ - UVNTinTucHep.TTF
+ - UVNTinTucHepThem.TTF
+ - UVNTinTucHepThem_R.TTF
+ - UVNTinTucHep_BI.TTF
+ - UVNTinTucHep_I.TTF
+ - UVNTinTucHep_R.TTF
+ - UVNTinTucNhe_I.TTF
+ - UVNTinTucNhe_R.TTF
+ - UVNTinTuc_BI.TTF
+ - UVNTinTuc_I.TTF
+ - UVNTinTuc_R.TTF
+ - UVNVan.TTF
+ - UVNVanChuong.TTF
+ - UVNVanChuongNang_R.TTF
+ - UVNVanChuong_I.TTF
+ - UVNVanChuong_R.TTF
+ - UVNVienDu.TTF
+ - UVNVietSach.TTF
+ - UVNVietSach_BI.TTF
+ - UVNVietSach_I.TTF
+ - UVNVietSach_R.TTF
+ - UVNViVi.TTF
+ - UVNVungTau.TTF
+
+✅ Nhóm 17:
+ - UVNBucThu.TTF
+ - UVNConThuy.TTF
+ - UVNHoaTay1.TTF
+ - UVNKeChuyen1.TTF
+ - UVNKeChuyen2.TTF
+ - UVNKeChuyen3.TTF
+ - UVNMayChuP.TTF
+ - UVNMayChuP_BI.TTF
+ - UVNMayChuP_I.TTF
+ - UVNMayChuP_R.TTF
+ - UVNMuaThu.TTF
+ - UVNSaigon.TTF
+ - UVNSaigon_BI.TTF
+ - UVNSaigon_I.TTF
+ - UVNSaigon_R.TTF
+ - UVNSangSong.TTF
+ - UVNSangSong_N.TTF
+ - UVNSangSong_R.TTF
+ - UVNVan_R.TTF
+
+✅ Nhóm 18:
+ - Andes.ttf
+ - Parisian.ttf
+ - TALLDECO.TTF
+
+✅ Nhóm 19:
+ - Beastmachine.ttf
+ - Mind Blowing Bold.ttf
+ - Mind Blowing light.ttf
+
+✅ Nhóm 20:
+ - Bellerose.ttf
+ - BLUEPSS_.TTF
+ - Campanile.ttf
+ - Carnevalee Freakshow Demo.ttf
+ - Carnevalee Freakshow.ttf
+ - Gladifilthefte.ttf
+ - MARCS___.ttf
+ - staravenue.ttf
+ - topspeed.TTF
+ - Varsity.ttf
+
+✅ Nhóm 21:
+ - Beyond Infinity - Demo.ttf
+ - Beyond Infinity - Demo_0.ttf
+ - High Tide - Demo_0.ttf
+ - Special Request - Demo.ttf
+ - Special-Request-Demo.ttf
+
+✅ Nhóm 22:
+ - Classique-Saigon.ttf
+ - Whestley.ttf
+
+✅ Nhóm 23:
+ - DAYPBL__.ttf
+ - HAMBH___.ttf
+ - HAMBH___0.ttf
+ - STONIN__.TTF
+
+✅ Nhóm 24:
+ - Dopestyle.ttf
+ - Madame Cosmetics.ttf
+ - Signature of the Ancient.ttf
+
+✅ Nhóm 25:
+ - FORTSSH_.ttf
+ - MINSPSW_.ttf
+
+✅ Nhóm 26:
+ - Louisianne.ttf
+ - LouisianneContour-Black.ttf
+ - LouisianneShadow-Black.ttf
+ - minotaur.ttf
+ - Nougat-ExtraBlack.ttf
+ - Sesame-Shadow.ttf
+ - Sesame.ttf
+
+✅ Nhóm 27:
+ - Northwell-Alt.ttf
+ - Northwell-Swash.ttf
+ - Northwell.ttf
+
+✅ Nhóm 28:
+ - Titania-Outline.ttf
+ - Titania-Regular.ttf
+ - Titania-Shadow.ttf
+
+✅ Nhóm 29:
+ - VL BlackMango-Regular.ttf
+ - VL Mesdag-Medium.ttf
+ - VL Othelie.ttf
+ - VL Zolina-ExtraLight.ttf
+ - VL Zolina-Medium.ttf
+
+✅ Nhóm 30:
+ - VL MonumentExtended-Regular.ttf
+ - VL MonumentExtended-Ultrabold.ttf
+ - VL MonumentExtended-Ultrabold_Small dau.ttf
+
+✅ Nhóm 31:
+ - VL PRETAPORTERCONTRASTBOLD.TTF
+ - VL PRETAPORTERCONTRASTSEMIBOLD.TTF
+ - VL PRETAPORTERLINEARBOLD.TTF
+ - VL PRETAPORTERLINEARHEAVY.TTF
+
+✅ Nhóm 32:
+ - Phudu-Black.ttf
+ - Phudu-Bold.ttf
+ - Phudu-ExtraBold.ttf
+ - Phudu-Light.ttf
+ - Phudu-Medium.ttf
+ - Phudu-Regular.ttf
+ - Phudu-SemiBold.ttf
+
+✅ Nhóm 33:
+ - DTPhudu-Black.ttf
+ - DTPhudu-Bold.ttf
+ - DTPhudu-Light.ttf
+ - DTPhudu-Medium.ttf
+ - DTPhudu-Regular.ttf
+
+✅ Nhóm 34:
+ - BeVietnamPro-Black.ttf
+ - BeVietnamPro-BlackItalic.ttf
+ - BeVietnamPro-Bold.ttf
+ - BeVietnamPro-BoldItalic.ttf
+ - BeVietnamPro-ExtraBold.ttf
+ - BeVietnamPro-ExtraBoldItalic.ttf
+ - BeVietnamPro-ExtraLight.ttf
+ - BeVietnamPro-ExtraLightItalic.ttf
+ - BeVietnamPro-Italic.ttf
+ - BeVietnamPro-Light.ttf
+ - BeVietnamPro-LightItalic.ttf
+ - BeVietnamPro-Medium.ttf
+ - BeVietnamPro-MediumItalic.ttf
+ - BeVietnamPro-Regular.ttf
+ - BeVietnamPro-SemiBold.ttf
+ - BeVietnamPro-SemiBoldItalic.ttf
+ - BeVietnamPro-Thin.ttf
+ - BeVietnamPro-ThinItalic.ttf
+
+✅ Nhóm 35:
+ - DarkerGrotesque-VariableFont_wght.ttf
+ - DarkerGrotesque-Black.ttf
+ - DarkerGrotesque-Bold.ttf
+ - DarkerGrotesque-ExtraBold.ttf
+ - DarkerGrotesque-Light.ttf
+ - DarkerGrotesque-Medium.ttf
+ - DarkerGrotesque-Regular.ttf
+ - DarkerGrotesque-SemiBold.ttf
+
+✅ Nhóm 36:
+ - Cotdien Typeface.ttf
+ - Eiforya.ttf
+ - L'Hanoienne.ttf
+
+✅ Nhóm 37:
+ - NGTAndreeGroteskTrial-MonoRegular.ttf
+ - NGTAndreeGroteskTrial-Regular.ttf
+ - NGTTofuDisplayTrial-Black.ttf
+ - NGTTofuDisplayTrial-Bold.ttf
+ - NGTTofuDisplayTrial-ExtraBold.ttf
+ - NGTTofuDisplayTrial-ExtraLight.ttf
+ - NGTTofuDisplayTrial-Light.ttf
+ - NGTTofuDisplayTrial-Medium.ttf
+ - NGTTofuDisplayTrial-Regular.ttf
+ - NGTTofuDisplayTrial-SemiBold.ttf
+ - NGTTofuDisplayTrial-Thin.ttf
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\SFU.ttc
+   Tổng số font trong collection: 235
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\SFUHelvetica.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 43
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 6
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\BlahBlahUCiCiel-.ttc
+   Tổng số font trong collection: 4
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\BlambotClassiciCiel-.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\CollectEmAlliCiel-.ttc
+   Tổng số font trong collection: 4
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\HundredWattiCiel-.ttc
+   Tổng số font trong collection: 4
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\OutOfLineiCiel-.ttc
+   Tổng số font trong collection: 4
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\ReadyforAnythingTB-.ttc
+   Tổng số font trong collection: 4
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 8
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 8
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 4
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\UVN.ttc
+   Tổng số font trong collection: 191
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\UVN.ttc
+   Tổng số font trong collection: 19
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 10
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 5
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 2
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 4
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 2
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 7
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\Northwell.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\Titania-.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\VL.ttc
+   Tổng số font trong collection: 5
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\VL MonumentExtended-.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\VL PRETAPORTER.ttc
+   Tổng số font trong collection: 4
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\Phudu-.ttc
+   Tổng số font trong collection: 7
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\DTPhudu-.ttc
+   Tổng số font trong collection: 5
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\BeVietnamPro-.ttc
+   Tổng số font trong collection: 18
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\DarkerGrotesque-.ttc
+   Tổng số font trong collection: 8
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\.ttc
+   Tổng số font trong collection: 3
+🎉 Đã tạo thành công file D:\PublicZone\FontCollections\App\app\../fonts/merged\NGT.ttc
+   Tổng số font trong collection: 11
+🎉 Hoàn thành!

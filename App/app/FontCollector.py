@@ -4,7 +4,6 @@ import shutil
 from utils.log import log_message, new_logger
 
 class FontCollector:
-    # Thư mục cài đặt font trên Windows
     FONT_COLLECTION_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..\\fonts"))
 
     def __init__(self, output_file):
